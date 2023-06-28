@@ -1,0 +1,21 @@
+host: irc.somewhere.org
+port: 6697
+ssl: true
+
+channels:
+    - "#chats"
+
+nick: ERIS
+user: ERIS
+real: eris.port6667.net/6667
+
+nickserv_pass: REDACTED
+nickserv_email: REDACTED
+
+cmdkey: .
+
+flood_interval: 1
+
+owner: "*!*@change.me"
+
+admins: []
